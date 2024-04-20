@@ -1,0 +1,527 @@
+ranks: 
+- rankId: ★★★
+  ratio: 94.3
+  tier: 3
+  collections: 
+  - itemId: Item3_01
+    ratio: 1
+  - itemId: Item3_02
+    ratio: 1
+  - itemId: Item3_03
+    ratio: 1
+  - itemId: Item3_04
+    ratio: 1
+  - itemId: Item3_05
+    ratio: 1
+  - itemId: Item3_06
+    ratio: 1
+  - itemId: Item3_07
+    ratio: 1
+  - itemId: Item3_08
+    ratio: 1
+  - itemId: Item3_09
+    ratio: 1
+  - itemId: Item3_10
+    ratio: 1
+  - itemId: Item3_11
+    ratio: 1
+  - itemId: Item3_12
+    ratio: 1
+  - itemId: Item3_13
+    ratio: 1
+  - itemId: Item3_14
+    ratio: 1
+  - itemId: Item3_15
+    ratio: 1
+  - itemId: Item3_16
+    ratio: 1
+  - itemId: Item3_17
+    ratio: 1
+  - itemId: Item3_18
+    ratio: 1
+  - itemId: Item3_19
+    ratio: 1
+  - itemId: Item3_20
+    ratio: 1
+  - itemId: Item3_21
+    ratio: 1
+  - itemId: Item3_22
+    ratio: 1
+  - itemId: Item3_23
+    ratio: 1
+  - itemId: Item3_24
+    ratio: 1
+- rankId: ★★★★
+  ratio: 5.1
+  tier: 2
+  collections: 
+  - itemId: Item4_001
+    ratio: 1
+  - itemId: Item4_002
+    ratio: 1
+  - itemId: Item4_003
+    ratio: 1
+  - itemId: Item4_004
+    ratio: 1
+  - itemId: Item4_005
+    ratio: 1
+  - itemId: Item4_006
+    ratio: 1
+  - itemId: Item4_007
+    ratio: 1
+  - itemId: Item4_008
+    ratio: 1
+  - itemId: Item4_009
+    ratio: 1
+  - itemId: Item4_010
+    ratio: 1
+  - itemId: Item4_011
+    ratio: 1
+  - itemId: Item4_012
+    ratio: 1
+  - itemId: Item4_013
+    ratio: 1
+  - itemId: Item4_014
+    ratio: 1
+  - itemId: Item4_015
+    ratio: 1
+  - itemId: Item4_016
+    ratio: 1
+  - itemId: Item4_017
+    ratio: 1
+  - itemId: Item4_018
+    ratio: 1
+  - itemId: Item4_019
+    ratio: 1
+  - itemId: Item4_020
+    ratio: 1
+  - itemId: Item4_021
+    ratio: 1
+  - itemId: Item4_022
+    ratio: 1
+  - itemId: Item4_023
+    ratio: 1
+  - itemId: Item4_024
+    ratio: 1
+  - itemId: Item4_025
+    ratio: 1
+  - itemId: Item4_026
+    ratio: 1
+  - itemId: Item4_027
+    ratio: 1
+  - itemId: Item4_028
+    ratio: 1
+  - itemId: Item4_029
+    ratio: 1
+  - itemId: Item4_030
+    ratio: 1
+  - itemId: Item4_031
+    ratio: 1
+  - itemId: Item4_032
+    ratio: 1
+  - itemId: Item4_033
+    ratio: 1
+  - itemId: Item4_034
+    ratio: 1
+  - itemId: Item4_035
+    ratio: 1
+  - itemId: Item4_036
+    ratio: 1
+  - itemId: Item4_037
+    ratio: 1
+  - itemId: Item4_038
+    ratio: 1
+  - itemId: Item4_039
+    ratio: 1
+  - itemId: Item4_040
+    ratio: 1
+  - itemId: Item4_041
+    ratio: 1
+  - itemId: Item4_042
+    ratio: 1
+  - itemId: Item4_043
+    ratio: 1
+  - itemId: Item4_044
+    ratio: 1
+  - itemId: Item4_045
+    ratio: 1
+  - itemId: Item4_046
+    ratio: 1
+  - itemId: Item4_047
+    ratio: 1
+  - itemId: Item4_048
+    ratio: 1
+  - itemId: Item4_049
+    ratio: 1
+  - itemId: Item4_050
+    ratio: 1
+  - itemId: Item4_051
+    ratio: 1
+  - itemId: Item4_052
+    ratio: 1
+  - itemId: Item4_053
+    ratio: 1
+  - itemId: Item4_054
+    ratio: 1
+  - itemId: Item4_055
+    ratio: 1
+  - itemId: Item4_056
+    ratio: 1
+  - itemId: Item4_057
+    ratio: 1
+  - itemId: Item4_058
+    ratio: 1
+  - itemId: Item4_059
+    ratio: 1
+  - itemId: Item4_060
+    ratio: 1
+  - itemId: Item4_061
+    ratio: 1
+  - itemId: Item4_062
+    ratio: 1
+  - itemId: Item4_063
+    ratio: 1
+  - itemId: Item4_064
+    ratio: 1
+  - itemId: Item4_065
+    ratio: 1
+  - itemId: Item4_066
+    ratio: 1
+  - itemId: Item4_067
+    ratio: 1
+  - itemId: Item4_068
+    ratio: 1
+  - itemId: Item4_069
+    ratio: 1
+  - itemId: Item4_070
+    ratio: 1
+  - itemId: Item4_071
+    ratio: 1
+  - itemId: Item4_072
+    ratio: 1
+  - itemId: Item4_073
+    ratio: 1
+  - itemId: Item4_074
+    ratio: 1
+  - itemId: Item4_075
+    ratio: 1
+  - itemId: Item4_076
+    ratio: 1
+  - itemId: Item4_077
+    ratio: 1
+  - itemId: Item4_078
+    ratio: 1
+  - itemId: Item4_079
+    ratio: 1
+  - itemId: Item4_080
+    ratio: 1
+  - itemId: Item4_081
+    ratio: 1
+  - itemId: Item4_082
+    ratio: 1
+  - itemId: Item4_083
+    ratio: 1
+  - itemId: Item4_084
+    ratio: 1
+  - itemId: Item4_085
+    ratio: 1
+  - itemId: Item4_086
+    ratio: 1
+  - itemId: Item4_087
+    ratio: 1
+  - itemId: Item4_088
+    ratio: 1
+  - itemId: Item4_089
+    ratio: 1
+  - itemId: Item4_090
+    ratio: 1
+  - itemId: Item4_091
+    ratio: 1
+  - itemId: Item4_092
+    ratio: 1
+  - itemId: Item4_093
+    ratio: 1
+  - itemId: Item4_094
+    ratio: 1
+  - itemId: Item4_095
+    ratio: 1
+  - itemId: Item4_096
+    ratio: 1
+  - itemId: Item4_097
+    ratio: 1
+  - itemId: Item4_098
+    ratio: 1
+  - itemId: Item4_099
+    ratio: 1
+  - itemId: Item4_100
+    ratio: 1
+  - itemId: Item4_101
+    ratio: 1
+  - itemId: Item4_102
+    ratio: 1
+  - itemId: Item4_103
+    ratio: 1
+  - itemId: Chara4_01
+    ratio: 1
+  - itemId: Chara4_02
+    ratio: 1
+  - itemId: Chara4_03
+    ratio: 1
+  - itemId: Chara4_04
+    ratio: 1
+  - itemId: Chara4_05
+    ratio: 1
+  - itemId: Chara4_06
+    ratio: 1
+  - itemId: Chara4_07
+    ratio: 1
+  - itemId: Chara4_08
+    ratio: 1
+  - itemId: Chara4_09
+    ratio: 1
+  - itemId: Chara4_10
+    ratio: 1
+  - itemId: Chara4_11
+    ratio: 1
+  - itemId: Chara4_12
+    ratio: 1
+  - itemId: Chara4_13
+    ratio: 1
+  - itemId: Chara4_14
+    ratio: 1
+  - itemId: Chara4_15
+    ratio: 1
+  - itemId: Chara4_16
+    ratio: 1
+  - itemId: Chara4_17
+    ratio: 1
+  - itemId: Chara4_18
+    ratio: 1
+  - itemId: Chara4_19
+    ratio: 1
+  - itemId: Chara4_20
+    ratio: 1
+  - itemId: Chara4_21
+    ratio: 1
+  - itemId: Chara4_22
+    ratio: 1
+  - itemId: Chara4_23
+    ratio: 1
+  - itemId: Chara4_24
+    ratio: 1
+  - itemId: Chara4_25
+    ratio: 1
+  - itemId: Chara4_26
+    ratio: 1
+  - itemId: Chara4_27
+    ratio: 1
+  - itemId: Chara4_28
+    ratio: 1
+  - itemId: Chara4_29
+    ratio: 1
+  - itemId: Chara4_30
+    ratio: 1
+  - itemId: Chara4_31
+    ratio: 1
+  - itemId: Chara4_32
+    ratio: 1
+  - itemId: Chara4_33
+    ratio: 1
+  - itemId: Chara4_34
+    ratio: 1
+  - itemId: Chara4_35
+    ratio: 1
+  - itemId: Chara4_36
+    ratio: 1
+  - itemId: Chara4_37
+    ratio: 1
+  - itemId: Chara4_38
+    ratio: 1
+  - itemId: Chara4_39
+    ratio: 1
+- rankId: ★★★★★
+  ratio: 0.6
+  tier: 1
+  collections: 
+  - itemId: Item5_01
+    ratio: 1
+  - itemId: Item5_02
+    ratio: 1
+  - itemId: Item5_03
+    ratio: 1
+  - itemId: Item5_04
+    ratio: 1
+  - itemId: Item5_05
+    ratio: 1
+  - itemId: Item5_06
+    ratio: 1
+  - itemId: Item5_07
+    ratio: 1
+  - itemId: Item5_08
+    ratio: 1
+  - itemId: Item5_09
+    ratio: 1
+  - itemId: Item5_10
+    ratio: 1
+  - itemId: Item5_11
+    ratio: 1
+  - itemId: Item5_12
+    ratio: 1
+  - itemId: Item5_13
+    ratio: 1
+  - itemId: Item5_14
+    ratio: 1
+  - itemId: Item5_15
+    ratio: 1
+  - itemId: Item5_16
+    ratio: 1
+  - itemId: Item5_17
+    ratio: 1
+  - itemId: Item5_18
+    ratio: 1
+  - itemId: Item5_19
+    ratio: 1
+  - itemId: Item5_20
+    ratio: 1
+  - itemId: Item5_21
+    ratio: 1
+  - itemId: Item5_22
+    ratio: 1
+  - itemId: Item5_23
+    ratio: 1
+  - itemId: Item5_24
+    ratio: 1
+  - itemId: Item5_25
+    ratio: 1
+  - itemId: Item5_26
+    ratio: 1
+  - itemId: Item5_27
+    ratio: 1
+  - itemId: Item5_28
+    ratio: 1
+  - itemId: Item5_29
+    ratio: 1
+  - itemId: Item5_30
+    ratio: 1
+  - itemId: Item5_31
+    ratio: 1
+  - itemId: Item5_32
+    ratio: 1
+  - itemId: Item5_33
+    ratio: 1
+  - itemId: Item5_34
+    ratio: 1
+  - itemId: Item5_35
+    ratio: 1
+  - itemId: Item5_36
+    ratio: 1
+  - itemId: Item5_37
+    ratio: 1
+  - itemId: Item5_38
+    ratio: 1
+  - itemId: Item5_39
+    ratio: 1
+  - itemId: Item5_40
+    ratio: 1
+  - itemId: Item5_41
+    ratio: 1
+  - itemId: Item5_42
+    ratio: 1
+  - itemId: Item5_43
+    ratio: 1
+  - itemId: Item5_44
+    ratio: 1
+  - itemId: Item5_45
+    ratio: 1
+  - itemId: Chara5_01
+    ratio: 1
+  - itemId: Chara5_02
+    ratio: 1
+  - itemId: Chara5_03
+    ratio: 1
+  - itemId: Chara5_04
+    ratio: 1
+  - itemId: Chara5_05
+    ratio: 1
+  - itemId: Chara5_06
+    ratio: 1
+  - itemId: Chara5_07
+    ratio: 1
+  - itemId: Chara5_08
+    ratio: 1
+  - itemId: Chara5_09
+    ratio: 1
+  - itemId: Chara5_10
+    ratio: 1
+  - itemId: Chara5_11
+    ratio: 1
+  - itemId: Chara5_12
+    ratio: 1
+  - itemId: Chara5_13
+    ratio: 1
+  - itemId: Chara5_14
+    ratio: 1
+  - itemId: Chara5_15
+    ratio: 1
+  - itemId: Chara5_16
+    ratio: 1
+  - itemId: Chara5_17
+    ratio: 1
+  - itemId: Chara5_18
+    ratio: 1
+  - itemId: Chara5_19
+    ratio: 1
+  - itemId: Chara5_20
+    ratio: 1
+  - itemId: Chara5_21
+    ratio: 1
+  - itemId: Chara5_22
+    ratio: 1
+  - itemId: Chara5_23
+    ratio: 1
+  - itemId: Chara5_24
+    ratio: 1
+  - itemId: Chara5_25
+    ratio: 1
+  - itemId: Chara5_26
+    ratio: 1
+  - itemId: Chara5_27
+    ratio: 1
+  - itemId: Chara5_28
+    ratio: 1
+  - itemId: Chara5_29
+    ratio: 1
+  - itemId: Chara5_30
+    ratio: 1
+  - itemId: Chara5_31
+    ratio: 1
+  - itemId: Chara5_32
+    ratio: 1
+  - itemId: Chara5_33
+    ratio: 1
+  - itemId: Chara5_34
+    ratio: 1
+  - itemId: Chara5_35
+    ratio: 1
+  - itemId: Chara5_36
+    ratio: 1
+  - itemId: Chara5_37
+    ratio: 1
+  - itemId: Chara5_38
+    ratio: 1
+  - itemId: Chara5_39
+    ratio: 1
+  - itemId: Chara5_40
+    ratio: 1
+  - itemId: Chara5_41
+    ratio: 1
+  - itemId: Chara5_42
+    ratio: 1
+  - itemId: Chara5_43
+    ratio: 1
+  - itemId: Chara5_44
+    ratio: 1
+  - itemId: Chara5_45
+    ratio: 1
+  - itemId: Chara5_46
+    ratio: 1

@@ -1,0 +1,29 @@
+ranks: 
+- rankId: すごすぎレア
+  ratio: 1
+  tier: 1
+  collections: 
+  - itemId: すごレアA
+    ratio: 100000000000000000
+  - itemId: すごレアB
+    ratio: 30000000004000000007
+  - itemId: すごレアC
+    ratio: 11
+  - itemId: すごレアD
+    ratio: 0.001
+- rankId: レア
+  ratio: 25
+  tier: 2
+  collections: 
+  - itemId: レアアイテムA
+    ratio: 7
+  - itemId: レアアイテムB
+    ratio: 3.6
+- rankId: コモン
+  ratio: 100
+  tier: 3
+  collections: 
+  - itemId: アイテムA
+    ratio: 2
+  - itemId: アイテムB
+    ratio: 1
