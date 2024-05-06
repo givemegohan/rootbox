@@ -1,9 +1,6 @@
 import { expect, jest, test } from '@jest/globals';
 import * as fs from 'fs';
-import { yamlReader } from '../src/yamlreader';
-import { normalizeConfig } from '../src/normalization';
-import { getDropRates } from '../src/getdroprates';
-import { gacha } from '../src/gacha';
+import { Rootbox } from '../src/rootbox';
 
 (BigInt.prototype as any).toJSON = function () {
     return this.toString();
@@ -17,10 +14,9 @@ interface measurement {
 
 test("10万回テスト", () => {
     const yamlData = fs.readFileSync('tests/__data__/gs.yaml', 'utf8');
-    const parsedData = yamlReader(yamlData);
-    const normalizedData = normalizeConfig(parsedData);
-    const dropRates = getDropRates(normalizedData);
-    const gachaResults = gacha(normalizedData, undefined, 100000);
+    const rootbox = new Rootbox(yamlData);
+    const dropRates = rootbox.getDropRates();
+    const gachaResults = rootbox.gacha(undefined, 100000);
     let rankMeasurement: {[key: string]: measurement} = {};
     let itemMeasurement: {[key: string]: measurement} = {};
     for (const rank of dropRates.ranks) {
@@ -46,10 +42,9 @@ test("10万回テスト", () => {
 
 test("星4確定10万回テスト", () => {
     const yamlData = fs.readFileSync('tests/__data__/gs.yaml', 'utf8');
-    const parsedData = yamlReader(yamlData);
-    const normalizedData = normalizeConfig(parsedData);
-    const dropRates = getDropRates(normalizedData, 2);
-    const gachaResults = gacha(normalizedData, 2, 100000);
+    const rootbox = new Rootbox(yamlData);
+    const dropRates = rootbox.getDropRates(2);
+    const gachaResults = rootbox.gacha(2, 100000);
     let rankMeasurement: {[key: string]: measurement} = {};
     let itemMeasurement: {[key: string]: measurement} = {};
     for (const rank of dropRates.ranks) {
